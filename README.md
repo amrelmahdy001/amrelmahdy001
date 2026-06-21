@@ -15,28 +15,27 @@ I'm passionate about building meaningful projects, diving into front-end develop
 Since its launch, Orpita has grown to over 40 members from diverse disciplines, promoting creativity, teamwork, and practical learning. In **GMTK Game Jam 2025**, our teams secured a **top 16%** ranking among more than 90,000 participants worldwide.
 
 > 🇪🇬 Egyptian • Volunteer youth community • 👥 40+ Members • 📅 Since 2025
-<p align="center">
 
   <a href="https://www.facebook.com/orpitacommunity">
-    <img src="./assets/svg/facebook.svg" width="40"/>
+    <img src="./assets/svg/facebook.svg" width="35"/>
   </a>
 
   <a href="https://www.instagram.com/orpita_community">
-    <img src="./assets/svg/instagram.svg" width="40"/>
+    <img src="./assets/svg/instagram.svg" width="35"/>
   </a>
 
   <a href="https://www.linkedin.com/in/yourname">
-    <img src="./assets/svg/linkedin.svg" width="40"/>
+    <img src="./assets/svg/linkedin.svg" width="35"/>
   </a>
 
   <a href="mailto:orpitastudios@gmail.com">
-    <img src="./assets/svg/gmail.svg" width="40"/>
+    <img src="./assets/svg/gmail.svg" width="35"/>
   </a>
   
 <a href="https://orpita-studio.web.app">
-    <img src="./assets/svg/website.svg" width="40"/>
+    <img src="./assets/svg/website.svg" width="35"/>
   </a>
-</p>
+  
 ---
 
 ## 🧩 Jurdian Project
@@ -55,7 +54,7 @@ Through hidden clues, codes, and an evolving narrative, Jurdian offers participa
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](#) — *(Add your link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/amr-elmahdy0/)
 - 📧 [Email](amrelmahdy001@gmail.com)
 
 ---
