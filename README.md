@@ -1,16 +1,46 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**amrelmahdy001/amrelmahdy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amr Elmahdy** — a Business Administration student, founder of **Orpita Game Community**, and creator of the **Jurdian Project**.
 
-Here are some ideas to get you started:
+I'm passionate about building meaningful projects, diving into front-end development, and exploring the games industry from both creative and strategic angles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Orpita Game Community
+
+![Orpita Banner](https://github.com/user-attachments/assets/642abddb-3f1c-4644-8dab-83b9a1f5970c)
+
+**Orpita** is a volunteer-based Egyptian game development community that unites young programmers, artists, designers, and creators with a shared passion for games. Our mission is to foster a collaborative environment where members can learn from one another, gain hands-on experience, and contribute to real team-based projects.
+
+Since its launch, Orpita has grown to over 40 members from diverse disciplines, promoting creativity, teamwork, and practical learning. In **GMTK Game Jam 2025**, one of our teams secured a **top 16%** ranking among more than 90,000 participants worldwide.
+
+> 🇪🇬 Egyptian • Volunteer-Based • 👥 40+ Members • 📅 Since 2025 • 🎮 GMTK Game Jam 2025 • 🏆 Top 16%
+
+---
+
+## 🧩 Jurdian Project
+
+![Jurdian Banner](https://github.com/user-attachments/assets/61b159d1-7489-4dcc-b4e5-24f92a37ad61)
+
+**Jurdian Project** is an upcoming initiative to develop one of the first large-scale **Alternate Reality Game (ARG)** experiences in Egypt starting from Alexandria — inspired by puzzle phenomena like [**Cicada 3301**](https://youtu.be/I2O7blSSzpI).
+
+Currently in development, the project blends storytelling, cryptography, pattern recognition, and mystery-solving into a series of interconnected challenges and competitions. It's designed to stimulate analytical thinking, curiosity, and collaboration.
+
+Through hidden clues, codes, and an evolving narrative, Jurdian offers participants a unique puzzle experience where they can sharpen their code-breaking skills, explore mysteries, and engage with a like-minded community in an immersive, competitive setting.
+
+> 🚧 In Development • 🧩 Inspired by Cicada 3301 • 🔐 Cryptography & Pattern Recognition • 🏆 Puzzle-Based Competitions
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](#) — *(Add your link)*
+- 📧 [Email](amrelmahdy001@gmail.com)
+
+---
+
+<div align="center">
+
+### ✨ Building communities, projects, and ideas — one step at a time.
+
+</div>
