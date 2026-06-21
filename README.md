@@ -12,10 +12,28 @@ I'm passionate about building meaningful projects, diving into front-end develop
 
 **Orpita** is a volunteer-based Egyptian game development community that unites young programmers, artists, designers, and creators with a shared passion for games. Our mission is to foster a collaborative environment where members can learn from one another, gain hands-on experience, and contribute to real team-based projects.
 
-Since its launch, Orpita has grown to over 40 members from diverse disciplines, promoting creativity, teamwork, and practical learning. In **GMTK Game Jam 2025**, one of our teams secured a **top 16%** ranking among more than 90,000 participants worldwide.
+Since its launch, Orpita has grown to over 40 members from diverse disciplines, promoting creativity, teamwork, and practical learning. In **GMTK Game Jam 2025**, our teams secured a **top 16%** ranking among more than 90,000 participants worldwide.
 
-> 🇪🇬 Egyptian • Volunteer-Based • 👥 40+ Members • 📅 Since 2025 • 🎮 GMTK Game Jam 2025 • 🏆 Top 16%
+> 🇪🇬 Egyptian • Volunteer youth community • 👥 40+ Members • 📅 Since 2025
+<p align="center">
 
+  <a href="https://facebook.com/yourname">
+    <img src="./assets/icons/facebook.svg" width="40"/>
+  </a>
+
+  <a href="https://instagram.com/yourname">
+    <img src="./assets/icons/instagram.svg" width="40"/>
+  </a>
+
+  <a href="https://linkedin.com/in/yourname">
+    <img src="./assets/icons/linkedin.svg" width="40"/>
+  </a>
+
+  <a href="mailto:your@email.com">
+    <img src="./assets/icons/email.svg" width="40"/>
+  </a>
+
+</p>
 ---
 
 ## 🧩 Jurdian Project
