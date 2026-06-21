@@ -17,22 +17,25 @@ Since its launch, Orpita has grown to over 40 members from diverse disciplines, 
 > 🇪🇬 Egyptian • Volunteer youth community • 👥 40+ Members • 📅 Since 2025
 <p align="center">
 
-  <a href="https://facebook.com/yourname">
-    <img src="./assets/icons/facebook.svg" width="40"/>
+  <a href="https://facebook.com/orpitacommunity">
+    <img src="./assets/svg/facebook.svg" width="40"/>
   </a>
 
-  <a href="https://instagram.com/yourname">
-    <img src="./assets/icons/instagram.svg" width="40"/>
+  <a href="https://instagram.com/orpita_community">
+    <img src="./assets/svg/instagram.svg" width="40"/>
   </a>
 
   <a href="https://linkedin.com/in/yourname">
-    <img src="./assets/icons/linkedin.svg" width="40"/>
+    <img src="./assets/svg/linkedin.svg" width="40"/>
   </a>
 
-  <a href="mailto:your@email.com">
-    <img src="./assets/icons/email.svg" width="40"/>
+  <a href="mailto: orpitastudios@gmail.com">
+    <img src="./assets/svg/gmail.svg" width="40"/>
   </a>
-
+  
+<a href="https://orpita-studio.web.app">
+    <img src="./assets/svg/website.svg" width="40"/>
+  </a>
 </p>
 ---
 
