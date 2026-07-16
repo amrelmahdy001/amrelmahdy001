@@ -35,7 +35,33 @@ Since its launch, Orpita has grown to over 40 members from diverse disciplines, 
 <a href="https://orpita-studio.web.app">
     <img src="./assets/svg/website.svg" width="35"/>
   </a>
-  
+
+  ## 🚀 Orpita Projects
+
+Collaborative games developed by members of **Orpita Game Community** under my leadership (as founder).
+
+### 🏥 One More Day
+
+![One More Day Banner](YOUR_BANNER_URL)
+
+**One More Day** is a narrative-driven adventure game created for **GMTK Game Jam 2025**. Set inside a hospital, players follow Dr. Zain as an ordinary day turns into a life-changing emergency, uncovering a story about responsibility, time, and difficult choices.
+
+> 🎮 Narrative Adventure • 🏥 Hospital • 🔄 GMTK Game Jam 2025
+
+🔗 **Play on itch.io:** [Play now](https://orpita-community.itch.io/one-more-day)
+
+---
+
+### 💾 Rewind
+
+![Rewind Banner](YOUR_BANNER_URL)
+
+**Rewind** is a retro-inspired 2D platformer created in **96 hours** during the **Orpita Mini Game Jam**. Trapped inside a corrupted digital world, players jump across dangerous platforms, battle computer viruses, collect nostalgic items, and fight to restore the system.
+
+> 🎮 Retro Platformer • 💾 Pixel Art • ⏱️ 96-Hour Game Jam • 👥 Team Project
+
+🔗 **Play on itch.io:** [Play now](https://orpita-community.itch.io/rewind)
+
 ---
 
 ## 🧩 Jurdian Project
