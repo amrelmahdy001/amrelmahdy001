@@ -1,4 +1,4 @@
-# HI, I'm Amr Elmahdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  # HI, I'm Amr Elmahdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 **Founder of Orpita Game Community · Creator of Jurdian Project · Co-Founder at Black Cat Digital Studio**
 ***
 
@@ -58,17 +58,45 @@ I'm the **Founder of Orpita**, where I help build and manage the community, orga
 </td>
 </tr>
 </table>
-
-#### 🎮 One More Day
-
-Another Orpita project created for **GMTK Game Jam 2025**, developed during the same game jam.
-
-[GitHub Repository](YOUR_LINK) · [Play on itch.io](YOUR_LINK)
-
-#### ⏪ Rewind
-
-A game created during the **Orpita Mini Game Jam**, as part of our own community game jam activities.
-
-[GitHub Repository](YOUR_LINK) · [Play on itch.io](YOUR_LINK)
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="./assets/icons/rewind.png" width="220"><br><br>
+<a href="GITHUB_REPO_LINK">
+<img src="/assets/icons/GitHub_Invertocat_White.svg" height="28">
+</a>
+&nbsp;
+<a href="ITCH_IO_LINK">
+<img src="/assets/icons/badge-color.svg" height="28">
+</a>
+</td>
+<td width="70%">
+<h3>Rewind</h3>
+<p>A retro-inspired platforming adventure set inside a corrupted digital world.</p>
+<p>Made in 96 hours during the <b>Orpita Mini Game Jam 2026</b>.</p>
+<p>💾 <b>Retro Platforming</b> · 👾 <b>Virus-themed World</b> · 🎵 <b>Original Audio</b></p>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="./assets/icons/one-more-day.png" width="220"><br><br>
+<a href="GITHUB_REPO_LINK">
+<img src="/assets/icons/GitHub_Invertocat_White.svg" height="28">
+</a>
+&nbsp;
+<a href="ITCH_IO_LINK">
+<img src="/assets/icons/badge-color.svg" height="28">
+</a>
+</td>
+<td width="70%">
+<h3>One More Day</h3>
+<p>A narrative-driven experience following a young doctor through a hospital shift that quickly turns into a race against time.</p>
+<p>Made in 96 hours for <b>GMTK Game Jam 2025</b><br>Theme: <b>Loop</b></p>
+<p>📖 <b>Narrative-driven</b> · 🏥 <b>Hospital Setting</b> · 🎵 <b>Original Audio</b></p>
+</td>
+</tr>
+</table>
 
 ---
